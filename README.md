@@ -2,6 +2,8 @@
 
 This repository provides code for the medium article *quote and link the article*. The article introduces dropout and demonstrates the effects of dropout on the training of a neural network using Keras.
 
+![Effect on Loss](images/dropout_nn.png)
+
 ## Setup and Execution
 Install necessary Python packages using below commands.
 * `pip install numpy matplotlib`
