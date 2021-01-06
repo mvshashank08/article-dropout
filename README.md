@@ -11,5 +11,5 @@ Install necessary Python packages using below commands.
 After installing the packages using the above commands, open the  `implementing-dropout.ipynb` file and run all the cells.
 
 ## Results
-![Effect on Loss](dropout_loss.png)
-![Effect on Accuracy](dropout_acc.png)
+![Effect on Loss](images/dropout_loss.png)
+![Effect on Accuracy](images/dropout_acc.png)
